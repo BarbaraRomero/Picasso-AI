@@ -10,7 +10,7 @@ Este taller se destina a estudiantes STEM y de Humanidades, profesionales del se
 En este taller se analiza texto e imágenes. Debido problemática entorno a las imágenes de Picasso y su extricto copyright, las imágenes seleccionadas para el taller no pueden ser publicadas.
 Para el análisis de textos, decidimos descargar las citas bibliográficas de artículos académicos sobre la figura de Picasso en español en formato BibTeX.El repositorio elegido fue [Dialnet](https://dialnet.unirioja.es/). 
 
-#### RAW DATA
+#### Raw Data
 [BibTeX_1](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet1.txt)
 
 [BibTeX_2](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet2.txt)
@@ -19,7 +19,10 @@ Para el análisis de textos, decidimos descargar las citas bibliográficas de ar
 
 [BibTeX_4](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet4.txt)
 
-#### Groups Material
+#### Process Data 
+BibTeX to CSV - sort by year
+
+#### Group Materials
 Group 1
 
 Group 2
