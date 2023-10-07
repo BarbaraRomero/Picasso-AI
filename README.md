@@ -12,6 +12,9 @@ Para el análisis de textos, decidimos descargar las citas bibliográficas de ar
 
 #### RAW DATA
 [BibTeX_1](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet1.txt)
+
 [BibTeX_2](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet2.txt)
+
 [BibTeX_3](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet3.txt)
+
 [BibTeX_4](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet4.txt)
