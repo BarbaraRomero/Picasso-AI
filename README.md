@@ -18,3 +18,17 @@ Para el análisis de textos, decidimos descargar las citas bibliográficas de ar
 [BibTeX_3](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet3.txt)
 
 [BibTeX_4](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet4.txt)
+
+#### Groups Material
+Group 1
+
+Group 2
+
+Group 3
+
+Group 4
+
+Group 5
+
+Group 6
+
