@@ -19,8 +19,8 @@ Para el análisis de textos, decidimos descargar las citas bibliográficas de ar
 
 [BibTeX_4](https://github.com/BarbaraRomero/Picasso-AI/blob/4fe5df80c4c8eccf77740fbd18e72e362ed9e770/dialnet4.txt)
 
-#### Process Data 
-BibTeX to CSV - sort by year
+#### Processed Data 
+[BibTeX to CSV Jupyter Notebook](https://github.com/BarbaraRomero/Picasso-AI/blob/c09ebfa73ea6c7ef843b6aa68b36c8c1f8c0c6c8/bibtext.ipynb)
 
 #### Group Materials
 Group 1
